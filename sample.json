@@ -38,5 +38,13 @@
         "quantity_on_hand" : 4,
         "size" : "large",
         "colour" : "black olive"
+      },
+      {
+        "name": "Prashanth from Vizag",
+        "price": 3249032,
+        "stock" : 2134,
+        "quantity_on_hand" : 21321432,
+        "size" : "meow",
+        "colour" : "bow bow"
       }
 ]

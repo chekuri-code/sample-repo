@@ -1,0 +1,42 @@
+[
+      {
+        "name": "Nutri Bullet",
+        "price": 110,
+        "stock" : 20,
+        "quantity_on_hand" : 15,
+        "size" : "large",
+        "colour" : "grey"
+      },
+      {
+        "name": "Ninja",
+        "price": 130,
+        "stock" : 18,
+        "quantity_on_hand" : 12,
+        "size" : "large",
+        "colour" : "black"
+      },
+      {
+        "name": "Vitamix",
+        "price": 220,
+        "stock" : 38,
+        "quantity_on_hand" : 25,
+        "size" : "large",
+        "colour" : "charcoal"
+      },
+      {
+        "name": "Blendtec",
+        "price": 350,
+        "stock" : 12,
+        "quantity_on_hand" : 7,
+        "size" : "medium",
+        "colour" : "aesthetic black."
+      },
+      {
+        "name": "Ninja",
+        "price": 99,
+        "stock" : 16,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "black olive"
+      }
+]

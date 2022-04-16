@@ -40,11 +40,251 @@
         "colour" : "black olive"
       },
       {
-        "name": "Prashanth from Vizag",
+        "name": "bin2",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "olive"
+      },
+      {
+        "name": "bin3",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "pink"
+      },
+        {
+        "name": "che",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "white"
+      },
+        {
+        "name": "min3",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "grey"
+      },
+        {
+        "name": "bin3",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "green"
+      },
+      {
+        "name": "gre3",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "pale green"
+      },
+      {
+        "name": "moh",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "red"
+      },
+      {
+        "name": "lexus",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "black"
+      },
+      {
+        "name": "lexus",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "black"
+      },
+       {
+        "name": "lexus234",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "brown"
+      },
+       {
+        "name": "audi23",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 4,
+        "size" : "large",
+        "colour" : "black"
+      },
+      {
+        "name": "volks1233",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 3,
+        "size" : "large",
+        "colour" : "black"
+      },
+       {
+        "name": "volks1233",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 3,
+        "size" : "large",
+        "colour" : "black"
+      },
+       {
+        "name": "zara1234",
+        "price": 95,
+        "stock" : 30,
+        "quantity_on_hand" : 6,
+        "size" : "small",
+        "colour" : "red"
+      },
+       {
+        "name": "zara3244",
+        "price": 78,
+        "stock" : 56,
+        "quantity_on_hand" : 34,
+        "size" : "medium",
+        "colour" : "green"
+           
+      },
+      {
+        "name": "vovbvbs1233",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 3,
+        "size" : "large",
+        "colour" : "black"
+      },
+       {
+        "name": "zara233",
+        "price": 56,
+        "stock" : 26,
+        "quantity_on_hand" : 3,
+        "size" : "large",
+        "colour" : "pink"
+      },
+       {
+        "name": "zara3455",
+        "price": 67,
+        "stock" : 65,
+        "quantity_on_hand" : 9,
+        "size" : "small",
+        "colour" : "blue"
+      },
+       {
+        "name": "zara5677",
+        "price": 89,
+        "stock" : 56,
+        "quantity_on_hand" : 8,
+        "size" : "large",
+        "colour" : "blue"
+      },
+       {
+        "name": "zara3455",
+        "price": 86,
+        "stock" : 78,
+        "quantity_on_hand" : 8,
+        "size" : "medium",
+        "colour" : "brown"
+      },
+       {
+        "name": "zara6755",
+        "price": 76,
+        "stock" : 56,
+        "quantity_on_hand" : 7,
+        "size" : "small",
+        "colour" : "blue"
+      },
+       {
+        "name": "zara4566",
+        "price": 78,
+        "stock" : 56,
+        "quantity_on_hand" : 9,
+        "size" : "large",
+        "colour" : "red"
+      },
+       {
+        "name": "zara4987",
+        "price": 79,
+        "stock" : 87,
+        "quantity_on_hand" : 6,
+        "size" : "medium",
+        "colour" : "purple"
+      },
+       {
+        "name": "zara9098",
+        "price": 67,
+        "stock" : 56,
+        "quantity_on_hand" : 7,
+        "size" : "medium",
+        "colour" : "violet"
+      },
+       {
+        "name": "zara5677",
+        "price": 98,
+        "stock" : 26,
+        "quantity_on_hand" : 3,
+        "size" : "large",
+        "colour" : "black"
+      },
+       {
+        "name": "gap0989",
+        "price": 56,
+        "stock" : 12,
+        "quantity_on_hand" : 3,
+        "size" : "medium",
+        "colour" : "pink"
+      },
+       {
+        "name": "gap0876",
+        "price": 34,
+        "stock" : 56,
+        "quantity_on_hand" : 9,
+        "size" : "small",
+        "colour" : "yellow"
+      },
+       {
+        "name": "gap5656",
+        "price": 45,
+        "stock" : 34,
+        "quantity_on_hand" : 3,
+        "size" : "large",
+        "colour" : "orange"
+      },
+       {
+        "name": "gap2343",
+        "price": 67,
+        "stock" : 43,
+        "quantity_on_hand" : 7,
+        "size" : "small",
+        "colour" : "red"
+      },
+       {
+        "name": "gap9876",
+        "price": 87,
+        "stock" : 56,
+        "quantity_on_hand" : 9,
+        "size" : "medium",
+        "colour" : "blue"
+      },
+        "name": "Pra233",
         "price": 3249032,
         "stock" : 2134,
         "quantity_on_hand" : 21321432,
         "size" : "meow",
-        "colour" : "bow bow"
+        "colour" : "yellow"
       }
 ]
